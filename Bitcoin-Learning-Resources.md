@@ -418,6 +418,9 @@ Comprehensive Bitcoin Core development course.
 - **Amboss** - https://amboss.space/
   - Node analytics, tools, and explorer
 
+- **LightningFaucet** - https://lightningfaucet.com/?utm_source=github&utm_medium=referral&utm_campaign=directory-listing
+  - Bitcoin/Lightning faucet for trying small sat payments
+
 - **Ride The Lightning (RTL)** - https://github.com/Ride-The-Lightning/RTL
   - Web UI for managing Lightning nodes
 
