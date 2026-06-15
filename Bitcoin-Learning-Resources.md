@@ -439,6 +439,9 @@ Comprehensive Bitcoin Core development course.
 - **Bitcoin-Only** - https://bitcoin-only.com/
   - Curated list of Bitcoin-only resources
 
+- **SatoABC** - https://www.satoabc.com/
+  - Plain-English Bitcoin guides for beginners, including first purchase size, buying flow, wallet basics, fees, records, and safety checks before increasing exposure
+
 - **Ministry of Nodes** - https://www.ministryofnodes.com.au/
   - Node guides and hardware recommendations
 
