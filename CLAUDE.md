@@ -33,17 +33,15 @@ README.md                       # Project overview and quick links
 
 ## Bitcoin Node Context
 
-When adding or verifying resources, the homelab Bitcoin stack for reference:
+Software this list is curated against, so entries stay relevant to a
+self-hosted full-node setup (no deployment details — this repo is public):
 
-- **Bitcoin Core v29.3** on nodebox (10.54.30.100, Ubuntu)
-  — txindex=1, Tor inbound, outbound via SOCKS5, cookie auth
-- **Electrs** — built from source, port 50001, no TLS
-- **Mempool.space** — self-hosted block explorer, port 4080
-- **Alby Hub** — Lightning via LDK, port 8029
-- **Sparrow Wallet** — on Debian, connected to own Electrs
-- **Running Bitcoin Knots** by preference (not Core) — relevant when
-  resources touch implementation differences, BIP-110, OP_RETURN policy,
-  or mempool relay debates
+- **Bitcoin Knots** by preference over Core — relevant when resources touch
+  implementation differences, BIP-110, OP_RETURN policy, or relay debates
+- **Electrs** as the index server
+- **Mempool** as a block explorer front end
+- **Alby Hub** for Lightning via LDK
+- **Sparrow Wallet** as the desktop wallet, pointed at the local Electrs
 
 ## Bitcoin Knowledge Areas (already covered — avoid duplication)
 
@@ -64,5 +62,5 @@ CC0 1.0 (public domain) — no attribution required.
 
 ## Git Remotes
 
-- `origin` → git@github.com:mcps976/bitcoin-resources.git
-- `truenas` → truenas:/mnt/tank/git-repos/bitcoin-resources.git
+- `github` → git@github.com:mcps976/bitcoin-resources.git (public remote)
+- `origin` → a private self-hosted mirror (not reachable externally)
