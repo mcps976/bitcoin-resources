@@ -1,6 +1,6 @@
 # Bitcoin Learning Resources
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A comprehensive, curated collection of Bitcoin learning materials, development resources, and community tools.
 
@@ -63,9 +63,9 @@ Found a great resource that's missing? Contributions are welcome!
 
 ## 📜 License
 
-This work is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under the [MIT License](LICENSE).
 
-You can copy, modify, and distribute this work, even for commercial purposes, without asking permission.
+You can copy, modify, and distribute this work, even for commercial purposes, as long as the copyright and licence notice are kept.
 
 ## ⭐ Support
 
