@@ -40,7 +40,6 @@ self-hosted full-node setup (no deployment details — this repo is public):
   implementation differences, BIP-110, OP_RETURN policy, or relay debates
 - **Electrs** as the index server
 - **Mempool** as a block explorer front end
-- **Alby Hub** for Lightning via LDK
 - **Sparrow Wallet** as the desktop wallet, pointed at the local Electrs
 
 ## Bitcoin Knowledge Areas (already covered — avoid duplication)
@@ -58,7 +57,7 @@ self-hosted full-node setup (no deployment details — this repo is public):
 
 ## License
 
-CC0 1.0 (public domain) — no attribution required.
+MIT (since 2026-11-01), copyright mcps976; versions before that remain CC0 1.0.
 
 ## Git Remotes
 
